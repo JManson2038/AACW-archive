@@ -15,7 +15,7 @@ body, html {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;;
     position: relative;
   }
 
@@ -54,7 +54,7 @@ body, html {
     margin-left: auto;
     margin-right: auto;
     font-family: inherit;
-    font-size: 1em;
+    font-size: 1.5em;
     color: inherit;
   }
 
@@ -91,7 +91,7 @@ body, html {
     margin-left: auto;
     margin-right: auto;
     font: inherit;
-    font-size: 1em;
+    font-size: 1.5em;
     color: inherit;
   }
 
